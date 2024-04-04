@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, Sivaraj here 👋
+
+I'm Sivaraj, a passionate software developer with a knack for simplicity. I specialize in web and app development, always striving to make the complex simple.
+
+## Let's Connect
+
+📧 Reach out to me at [hello@sdev.in](mailto:hello@sdev.in).
+
+🌐 Explore more:
+- [Website](https://sdev.in)
+- [YouTube](https://www.youtube.com/@sdev_in)
+
+Let's code the future together! 💻🌟
 
 <!--
 **sivaraj-dev/sivaraj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
