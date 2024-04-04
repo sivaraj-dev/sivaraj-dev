@@ -4,4 +4,4 @@ Specialized in web and app development, always striving to make the complex simp
 
 Let's code the future together! 💻🌟
 
-📧 Reach out to me at [hello@sdev.in](mailto:hello@sdev.in) [🌐](https://sdev.in) [YouTube](https://www.youtube.com/@sdev_in)
+📧 Reach out to me at [hello@sdev.in](mailto:hello@sdev.in) [Website](https://sdev.in) [YouTube](https://www.youtube.com/@sdev_in)
