@@ -1,6 +1,6 @@
 ### Hi, Sivaraj here 👋
 
-A passionate software developer with a knack for simplicity. I specialize in web and app development, always striving to make the complex simple.
+Specialized in web and app development, always striving to make the complex simple.
 
 ## Let's Connect
 
